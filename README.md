@@ -1,0 +1,1 @@
+# vscode-smart-url-to-json
